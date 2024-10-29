@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+numba
+pandas
+scikit-learn
+tqdm
+fairlearn
+mpi4py
+mpich
+sentence-transformers
