@@ -6,7 +6,7 @@ Code to reproduce the results in the NeurIPS 2024 paper *SureMap: Simultaneous m
 
 To reproduce results, clone this repository and run the following commands (tested with Python 3.11.9 on Ubuntu):
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 apt-get update --yes
 apt-get install -y bzip2
 bzip2 -d data/common_voice/*  # only needed if evaluating on Common Voice and CVC tasks

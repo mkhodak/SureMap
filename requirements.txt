@@ -7,5 +7,4 @@ scikit-learn
 tqdm
 fairlearn
 mpi4py
-mpich
 sentence-transformers
